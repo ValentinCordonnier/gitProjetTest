@@ -1,2 +1,2 @@
 # gitProjetTest
-Test project for best practices
+Test project for best github practices
